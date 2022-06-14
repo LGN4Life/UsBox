@@ -1,0 +1,2 @@
+rubi	C:\Henry\CurrentAwakeData\Attention_2021\WorkSpaces\WorkSpace\rubi_training	rubi_training
+s_pot	C:\Henry\CurrentAwakeData\s_pot\WorkSpaces\WorkSpace\current_data	s_potential
